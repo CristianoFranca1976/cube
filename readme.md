@@ -20,3 +20,8 @@ npm install --save-dev vite
 npx vite
 ```
  http://localhost:5173/
+
+
+## image of the cube 
+ 
+![Screenshot_20240303_181614](https://github.com/CristianoFranca1976/cube/assets/135919856/a482a1af-efb6-4ce8-97f9-7fbfec7acca5)
